@@ -46,3 +46,8 @@ end
 fprintf(' Value calculated : %-12.8f \n', xvect(it));
 
 return
+
+% This function can also be transformed into the modified-newton-method adding to the inputs a variable 'm'
+% which represents the multiplicity of the function in the zero (that must be known in
+% order to use it), and changing at the line 33 the equation present with:
+% x0 = x0 - ( m.* (f(x0)/df(x0)));
