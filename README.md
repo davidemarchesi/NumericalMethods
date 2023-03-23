@@ -4,4 +4,4 @@ complex, or either impossible, mathematical models of real physical problems.
 
 **All the discussion will be made with MATLAB code language**
 
-In this repository you will find a **LaTex file**, explaining briefly the theory behind the numerical models, and in each folder you will find every referred method `code` with also examples of it.
+In each folder you will find every the referred method `code` with also examples of it.
